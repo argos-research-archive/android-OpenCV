@@ -9,11 +9,11 @@ OpenCV-based object detection framework on Android that provides driving assista
 
 ### Lane Detection
 
-![alt header](https://github.com/argos-research/android-OpenCV/blob/master/screenshots/lane%231.png)
+![lane_detection](https://github.com/paatz04/android-OpenCV/blob/master/screenshots/lane_detection.jpg)
 
 ### Vehicle Detection
 
-![alt header](https://github.com/argos-research/android-OpenCV/blob/master/screenshots/vehicle%231.png)
+![vehicle_detection](https://github.com/paatz04/android-OpenCV/blob/master/screenshots/vehicle_detection.jpg)
 
 # UI
 
